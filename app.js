@@ -24,15 +24,6 @@ app.use(passport.initialize());
 
 app.use(passport.session())
 
-app.use(
-    helmet.contentSecurityPolicy({
-      directives: {
-        ...helmet.contentSecurityPolicy.getDefaultDirectives(),
-        'img-src': ["'self'", "data:", "res.cloudinary.com"],
-      },
-    })
-);  
-
 //routes 
 app.use(require('./routes/index.js'))
 app.use(require('./routes/profile.js'))
