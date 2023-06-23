@@ -3,7 +3,7 @@ Box Buddy is a community-based mobile fitness application where users can build 
 <br/><br/>
 ## Live Link: 🔗
 
-Access our site at [(https://boxbuddy-fitness.onrender.com/)](https://boxbuddy-fitness.onrender.com/) - mobile
+Access our site at [https://boxbuddy-fitness.onrender.com/](https://boxbuddy-fitness.onrender.com/) - mobile
 <br/><br/>
 ## Table of Contents: 📚
 * [Technologies](#tech)<br/>
